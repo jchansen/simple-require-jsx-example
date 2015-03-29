@@ -3,5 +3,5 @@ module.exports = {
     'public/javascripts/**/*.js',
     '!public/javascripts/**/*.react.js'
   ],
-  jsxTemplates: 'javascripts/js/**/*.react.js'
+  jsxTemplates: 'public/javascripts/**/*.react.js'
 };
